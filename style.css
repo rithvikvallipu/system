@@ -157,3 +157,19 @@ header .nav-links a:hover {
 .category-nav a:hover {
   text-decoration: underline;
 }
+
+/* Footer Section */
+footer {
+  background-color: #2874f0;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+footer p {
+  margin: 0;
+  font-size: 14px;
+}
